@@ -8,7 +8,7 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 ## Você pode entrar em contato comigo 📫
 paulobucioli@prof.educacao.sp.gov.br
 
-@alurastartestudante
+@alurastartestudante.
 
 <!--
 **buciolip1980/buciolip1980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
